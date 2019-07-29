@@ -3,6 +3,10 @@
 
 ## Benchmarks
 
+### Go 
+``` go version go1.12.7 linux/amd64
+```
+
 ### Hw
 ```
 H/W path       Device     Class          Description
